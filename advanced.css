@@ -1,0 +1,36 @@
+form {
+    background: linear-gradient(to top right, navy, beige);
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background:linear-gradient(to bottom right, black, grey);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+input:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, white, lightgrey);
+    color: black;
+}
+
+input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, lightblue, beige);
+    color: aliceblue;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#legend {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#ua {
+    color: white;
+}
