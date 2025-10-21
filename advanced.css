@@ -34,3 +34,20 @@ input {
 #ua {
     color: white;
 }
+#button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, , beige);
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+#button:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, black, grey);
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
